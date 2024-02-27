@@ -12,7 +12,9 @@ ul {
 /*Common Styles End*/
 
 /*Header Styles Start*/
-
+header h1 {
+    color: #ff0000;
+}
 /*Header Styles End*/
 
 /*Section1 Styles Start*/
